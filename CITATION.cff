@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+
+title: "PCA-τ with ANOVA/FDR Rescue"
+type: software
+
+authors:
+  - family-names: "Cuesta"
+    given-names: "Jordi"
+    orcid: "https://orcid.org/0009-0007-3527-4836"
+
+version: "1.0.0"
+
+repository-code: "https://github.com/jordicuestand/pca-tau-anova-fdr-rescue"
+
+license: "MIT"
+
+keywords:
+  - principal component analysis
+  - feature selection
+  - dimensionality reduction
+  - ANOVA
+  - false discovery rate
+  - support vector machine
+  - machine learning
+  - low-variance components
+
+abstract: >
+  Reproducibility code accompanying the paper "PCA-τ with ANOVA/FDR Rescue".
+  The HYBRID method preserves the variance-based PCA core and applies
+  ANOVA with Benjamini-Hochberg false-discovery-rate correction only
+  to discarded tail principal components, selectively rescuing those
+  showing evidence of class discrimination.
