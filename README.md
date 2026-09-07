@@ -347,7 +347,9 @@ If you use this code or the method in your work, please cite:
 }
 ```
 
-A permanent software DOI will be added after the archived release is deposited in Zenodo.
+Archived release available on Zenodo:
+
+DOI: 10.5281/zenodo.22646922
 
 See also: `CITATION.cff`
 
